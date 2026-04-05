@@ -5,6 +5,7 @@ This project presents an interactive Call Center Performance Dashboard built usi
 
 ## Key Features:
 📌 KPI Cards: Total Calls, Avg Speed of Answer, Avg Talk Time, Satisfaction Score, Answer Rate, Resolution Rate
+
 📊 Agent-wise Performance Analysis
 📈 Hourly Call Volume (Peak Analysis)
 📅 Monthly Trend Analysis
